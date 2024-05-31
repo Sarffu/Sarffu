@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarfraj Ansari
 - 👀 I’m interested in Python Development 
-- 🌱 I’m currently learning Python, FLask, Django and MYSQL,POSTGREsSQL,ANGULAR
+- 🌱 I’m currently learning Python, Flask, Django and MYSQL,POSTGREsSQL,ANGULAR,POSTMAN
 - 💞️ I’m looking to collaborate on Software Development using Python Framework..
 - 📫 How to reach me https://www.linkedin.com/in/sarfrajas, SarfrajA43@gmail.com
 
